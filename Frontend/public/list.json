@@ -1,0 +1,21 @@
+{
+    "users": [
+      {
+        "fullname": "Vidhi Singh",
+        "email": "vidhisinghvp1010@gmail.com",
+        "password": "vidhi123"
+      },
+      {
+        "fullname": "Vivek Raj",
+        "email": "vivel123@gmail.com",
+        "password": "vivek123"
+      },
+      {
+        "fullname": "Vaibhav",
+        "email": "vaibhab123@gmail.com",
+        "password": "vaibhav123"
+      }
+    ]
+    
+  }
+  
